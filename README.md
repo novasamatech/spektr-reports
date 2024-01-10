@@ -1,0 +1,1 @@
+Stores Playwright Test reports from [Nova Spektr app](https://github.com/novasamatech/nova-spektr), served up via GitHub Pages.
